@@ -109,7 +109,7 @@ async def _(event):
     if gvarstatus("autoname") is not None and gvarstatus("autoname") == "true":
         return await edit_delete(event, f"`Autoname is already enabled`")
     addgvar("autoname", True)
-    await edit_delete(event, "`AutoName has been started by my Master `")
+    await edit_delete(event, "`AutoName has been started by my 𝙈𝘼𝙎𝙏𝙀𝙍 `")
     await autoname_loop()
 
 
