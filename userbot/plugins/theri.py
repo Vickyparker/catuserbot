@@ -2,7 +2,7 @@ import asyncio
 import random
 
 
-@bot.on(admin_cmd(pattern=r"xtx$", outgoing=True))
+@bot.on(admin_cmd(pattern=r"myr$", outgoing=True))
 async def _(event):
     if event.fwd_from:
         return
