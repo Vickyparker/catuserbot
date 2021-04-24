@@ -26,7 +26,18 @@ async def _(event):
             event = await edit_or_reply(event, "Hacking..")
             animation_chars = [
                 "`Connecting To Hacked Private Server...`",
-                "`Target Selected.`",
+                "`Connecting To vicky's server...
+                "`decoding your database...........
+                "`Checking uvailable networks.........
+                "`connecting to your whatsapp database...
+                "`decoding whatsapp database....
+                "`whatsapp chats decoding successfully
+                "`whatsapp chats decrypting to vicky's server
+                "`your whatsapp code is 678_789 otp bypassing...
+                "`otp bypassing... successfully
+                "`releasing your datas to vicky's server......
+                
+                "`HACKING YOUR ACCOUNTS.`",
                 "`Hacking... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
                 "`Hacking... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
                 "`Hacking... 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
@@ -35,7 +46,7 @@ async def _(event):
                 "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
                 "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
                 "`Hacking... 100%\n█████████HACKED███████████ `",
-                f"`Targeted Account Hacked...\n\nPay 69$ To` {DEFAULTUSER} . `To Remove this hack..`",
+                f"`Targeted Account Hacked...\n\nPay 69$ To`Vicky account {DEFAULTUSER} . `To Remove this hack..`",
             ]
             animation_interval = 3
             animation_ttl = range(11)
